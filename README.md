@@ -1,5 +1,5 @@
-# Introdução à programação em Python
-Curso de introdução à programação em Python.
+# Programação em Python
+Curso de programação em Python.
 
 # Ementa
 1. Curso
