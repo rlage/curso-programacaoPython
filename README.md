@@ -34,16 +34,24 @@ Curso de introdução à programação em Python.
         1. Por que usar?
         2. Sintaxe
         3. Definição e chamada
-
-# Conteúdo
-1. Curso
-    1. Objetivo
-    2. Quem pode/deve fazer esse curso?
-    3. Pré-requisitos
-2. O que é Python?
+    2. Escopo e argumentos
+    3. Funções anônimas
+    4. Funções como argumentos
+7. Módulos
+    1. Básico
+        1. Conceito
+        2. Por que usar?
+        3. Como usar?
+    2. Desenvolvendo módulos
+    3. Pacotes
+8. Orientação a objetos
+    1. O que é OO?
+    2. Por que usar?
+    3. Atributos
+    4. Métodos
+    5. Herança
+9. Exceções
     1. Conceito
-    2. Para que é usada?
-    3. Quem usa?
-3. Setup
-    1. Como instalar?
-    2. Executando seu primeiro programa
+        2. Por que usar?
+        3. Como usar?
+    2. Objetos de exceção
